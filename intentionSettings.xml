@@ -4,5 +4,7 @@
     <ignoreAction name="Language Injection/Inject language or reference" />
     <ignoreAction name="XML/Expand empty tag" />
     <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="PHP/Convert array to short syntax" />
+    <ignoreAction name="PHP/Join comma-separated values into a single line" />
   </component>
 </application>

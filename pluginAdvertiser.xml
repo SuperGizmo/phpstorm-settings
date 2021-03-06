@@ -1828,6 +1828,11 @@
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
+                  <entry key="DockDockBuildRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DockDockBuild" pluginName="DockDockBuild" pluginId="com.intuit.intellij.makefile" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
